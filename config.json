@@ -1,0 +1,14 @@
+{
+    "USA": {
+        "app_code": "usa",
+        "app_url": "https://brainly.com"
+    },
+    "RUS": {
+        "app_code": "rus",
+        "app_url": "https://znanija.com"
+    },
+    "LAT": {
+        "app_code": "lat",
+        "app_url": "https://brainly.lat"
+    }
+}

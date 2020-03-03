@@ -9,12 +9,7 @@ __init__.py
 
 
 # Reporting and logs #
-*.json
 *.log
-
-
-# Configuration files
-config.json
 
 
 # OS generated files #
